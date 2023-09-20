@@ -21,7 +21,7 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> </a>
 
-
+<br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
