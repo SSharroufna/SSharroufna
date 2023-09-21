@@ -6,7 +6,7 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/sarah-sharroufna-4b552b253/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Sarahsharroufna@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sarah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/sarah-sharroufna-4b552b253/) [![Mail Badge](https://img.shields.io/badge/-SSharroufna-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Sarahsharroufna@gmail.com)
 
 ### What I currently Do
 
@@ -15,7 +15,6 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: SarahSharroufna@gmail.com.
 - ⚡ Fun fact: I play piano and go to the GYM very often.
-[![Mail Badge]() [![Linkedin Badge]()]
 
 <h2> Top Languages & Technologies: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
