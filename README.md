@@ -10,7 +10,7 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 
 ### What I currently Do
 
-- 🔭 I’m currently working on CampsFinder website
+- 🔭 I’m currently working on CampsFinder project
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with applying to interships!
 - 📫 How to reach me: SarahSharroufna@gmail.com.
