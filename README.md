@@ -12,7 +12,7 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 
 - 🔭 I’m currently working on CampsFinder website
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking for help with applying to interships!
 - 📫 How to reach me: SarahSharroufna@gmail.com.
 - ⚡ Fun fact: I play Minecraft and listen to Mozart a lot.
 
