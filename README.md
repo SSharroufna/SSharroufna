@@ -2,7 +2,7 @@
 
 **`Software Engineer/Full Stack Developer`**
 
-I'm junior CS student with minor in creative technology & design. I enjoy exploring concepts in full-stack software development, data science, and AI. all coding projects build from the ground up, from planning and designing all the way to solving real life problems with code.
+I'm junior CS student with minor in creative technology & design. I enjoy exploring concepts in full-stack software development, data science, and AI. All coding projects build from the ground up, from planning and designing all the way to solving real life problems with code.
 
 :mailbox: Reach me out!
 
