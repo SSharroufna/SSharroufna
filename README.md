@@ -10,7 +10,6 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 
 ### What I currently Do
 
-- 🔭 I’m currently working on [@memories-app](https://github.com/SSharroufna/Memories-App).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for outstanding intership opportunities!
 - 📫 How to reach me: SarahSharroufna@gmail.com.
