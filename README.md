@@ -19,6 +19,7 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> </a>
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> </a>
