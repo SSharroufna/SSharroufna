@@ -2,7 +2,7 @@
 
 **`Software Engineer/Full Stack Developer`**
 
-I'm junior CS student with minor in creative technology & design. I enjoy exploring concepts in full-stack software development, data science, and AI. All coding projects build from the ground up, from planning and designing all the way to solving real life problems with code.
+I am a junior Computer Science student with a minor in Creative Technology & Design, focusing on web development. I’m passionate about full-stack development, working on projects that span both front-end and back-end technologies. My experience includes designing user-friendly interfaces and developing functional, scalable web applications. I’m also interested in how AI can be integrated into web solutions to solve real-world problems. I enjoy the process of building projects from the ground up, from initial concept through to deployment, and am always eager to learn and apply new skills in the field of web development.
 
 :mailbox: Reach me out!
 
@@ -10,9 +10,9 @@ I'm junior CS student with minor in creative technology & design. I enjoy explor
 
 ### What I currently Do
 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 💻 I am redesigning and developing a MERN stack LMS website for Prism. <a>
 - 🤔 I’m looking for outstanding intership opportunities!
-- 📫 How to reach me: SarahSharroufna@gmail.com.
+- 📫 How to reach me: SarahSharroufna@gmail.com
 - ⚡ Fun fact: I play Minecraft and listen to Mozart a lot.
 
 <h2> Top Languages & Technologies 👩🏻‍💻: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
