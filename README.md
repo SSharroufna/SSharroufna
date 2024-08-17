@@ -10,7 +10,7 @@ I am a junior Computer Science student with a minor in Creative Technology & Des
 
 ### What I currently Do
 
-- 💻 I am redesigning and developing a MERN stack LMS website for Prism. <a>
+- 💻 I am redesigning and developing a MERN stack LMS website for [Prism]([https://www.example.com](https://www.postinternetproject.org/prism)).
 - 🤔 I’m looking for outstanding intership opportunities!
 - 📫 How to reach me: SarahSharroufna@gmail.com
 - ⚡ Fun fact: I play Minecraft and listen to Mozart a lot.
