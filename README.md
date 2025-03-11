@@ -16,16 +16,16 @@ My experience includes converting UI designs to code, creating reusable componen
 - 📫 How to reach me: SarahSharroufna@gmail.com
 - ⚡ Fun fact: I play Minecraft and listen to Mozart a lot.
 
-<h2> Top Languages & Technologies 👩🏻‍💻: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<img align="left" alt="React" width='40px' style="padding-right:10px;" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'>
-<img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> </a>
+<h2> Top Languages & Technologies 👩🏻‍💻: 
+  <img align="left" alt="React" width='40px' style="padding-right:10px;" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'>
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<img align="left" alt="javascript" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"> </a>
+<img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> </a>
 
 
