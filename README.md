@@ -1,8 +1,10 @@
 # Sarah Sharroufna
 
-**`Software Engineer/Full Stack Developer`**
+**`Software Engineer/Front end Developer`**
 
-I am a junior Computer Science student with a minor in Creative Technology & Design, focusing on web development. I’m passionate about full-stack development, working on projects that span both front-end and back-end technologies. My experience includes designing user-friendly interfaces and developing functional, scalable web applications. I’m also interested in how AI can be integrated into web solutions to solve real-world problems. I enjoy the process of building projects from the ground up, from initial concept through to deployment, and am always eager to learn and apply new skills in the field of web development.
+I am a junior Computer Science student with a minor in Creative Technology & Design, focusing on web development. I'm passionate about front-end development, creating resposive designs and integrating back-end technologies.
+
+My experience includes converting UI designs to code, creating reusable components, and connecting front-end interfaces with the backend. I’m also interested in how AI can be integrated into web solutions to solve real-world problems. I enjoy the process of building projects from the ground up, from initial concept through to deployment, and am always eager to learn and apply new skills in the field of web development.
 
 :mailbox: Reach me out!
 
@@ -10,7 +12,7 @@ I am a junior Computer Science student with a minor in Creative Technology & Des
 
 ### What I currently Do
 
-- 🤔 I’m looking for outstanding intership opportunities!
+- 🤔 Working as a front end developer for Okaya
 - 📫 How to reach me: SarahSharroufna@gmail.com
 - ⚡ Fun fact: I play Minecraft and listen to Mozart a lot.
 
