@@ -1,6 +1,6 @@
 # Sarah Sharroufna
 
-**`Software Engineer/Front end Developer`**
+**`Software Engineer/Front End Developer`**
 
 I am a junior Computer Science student with a minor in Creative Technology & Design, focusing on web development. I'm passionate about front-end development, creating resposive designs and integrating back-end technologies.
 
