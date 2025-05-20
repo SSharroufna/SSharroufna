@@ -4,11 +4,12 @@
 
 I’m on a mission to turn my million-dollar app ideas into reality while riding the thrilling wave of AI innovation. I'm passionate about human-centered design and obsessed with making technology feel more personal, seamless, and smarter by design.
 
-Here’s a glimpse of what I can do:
+Here’s a glimpse of what’s driving me to keep leveling up my skills:
 
-- Convert UI designs into clean, functional code and build reusable components
-- Connect front-end interfaces with back-end systems to bring ideas to life
-- Plan projects from initial concept all the way to deployment
+🎨 Turning UI designs into clean, functional, and responsive code
+♻️ Building reusable components to make development faster and smarter
+🔗 Connecting front-end magic with back-end logic to bring ideas to life
+🚀 Planning and launching projects from initial concept all the way to deployment
 
 :mailbox: Reach me out!
 
