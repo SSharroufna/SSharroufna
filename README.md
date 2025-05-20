@@ -2,7 +2,7 @@
 
 **`Front End Developer/ Software Engineer`**
 
-Hey there! I'm on a mission to turn my million-dollar app ideas into reality while riding the wild wave of AI innovation. I’m fascinated by human-centered design and how technology can feel more personal, seamless, and just… smarter.
+I’m on a mission to turn my million-dollar app ideas into reality while riding the thrilling wave of AI innovation. I'm passionate about human-centered design and obsessed with making technology feel more personal, seamless, and smarter by design.
 
 Here’s a glimpse of what I can do:
 
