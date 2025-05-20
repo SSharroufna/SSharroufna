@@ -1,10 +1,14 @@
 # Sarah Sharroufna
 
-**`Software Engineer/Front End Developer`**
+**`Front End Developer/ Software Engineer`**
 
-I am a junior Computer Science student with a minor in Creative Technology & Design, focusing on web development. I'm passionate about front-end development, creating resposive designs and integrating back-end technologies.
+Hey there! I'm on a mission to turn my million-dollar app ideas into reality while riding the wild wave of AI innovation. I’m fascinated by human-centered design and how technology can feel more personal, seamless, and just… smarter.
 
-My experience includes converting UI designs to code, creating reusable components, and connecting front-end interfaces with the backend. I’m also interested in how AI can be integrated into web solutions to solve real-world problems. I enjoy the process of building projects from the ground up, from initial concept through to deployment, and am always eager to learn and apply new skills in the field of web development.
+Here’s a glimpse of what I can do:
+
+- Convert UI designs into clean, functional code and build reusable components
+- Connect front-end interfaces with back-end systems to bring ideas to life
+- Plan projects from initial concept all the way to deployment
 
 :mailbox: Reach me out!
 
@@ -14,7 +18,7 @@ My experience includes converting UI designs to code, creating reusable componen
 
 - 🤔 Working as a front end developer for Okaya
 - 📫 How to reach me: SarahSharroufna@gmail.com
-- ⚡ Fun fact: I play Minecraft and listen to Mozart a lot.
+- ⚡ Fun fact: I have a beatiful farm on Hay day and listen to Mozart a lot.
 
 <h2> Top Languages & Technologies 👩🏻‍💻: 
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
