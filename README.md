@@ -18,20 +18,22 @@ Here’s a glimpse of what I can do:
 
 - 🤔 Working as a front end developer for Okaya
 - 📫 How to reach me: SarahSharroufna@gmail.com
-- ⚡ Fun fact: I have a beatiful farm on Hay day and listen to Mozart a lot.
+- ⚡ Fun fact: I run a beautiful farm on Hay Day and vibe to Mozart while coding
 
-<h2> Top Languages & Technologies 👩🏻‍💻: 
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img align="left" alt="React" width='40px' style="padding-right:10px;" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'>
-<img align="left" alt="Java" width='40px' style="padding-right:10px;" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg'>
-<img align="left" alt="javascript" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> </a>
-<img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> </a>
-<img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"> </a>
-<img align="left" alt="java" width='40px' style="padding-right:10px;"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<img align="left" alt="java" width='50px' style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> </a>
+<h2>🚀 Top Languages & Technologies 👩🏻‍💻: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+</h2>
+
+<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Next.js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" />
+<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" />
+<img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" />
+<img align="left" alt="Tailwind CSS" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+
+
+<br/><br/>
+ </a>
 
 
 <br>
